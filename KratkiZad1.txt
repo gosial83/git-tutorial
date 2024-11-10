@@ -1,2 +1,3 @@
 dodanie ManuAction
 poprawka
+poprawka 2
